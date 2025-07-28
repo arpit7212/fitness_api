@@ -1,4 +1,4 @@
-# Fitness API with FastAPI with python
+# Fitness API using FastAPI with python
 
 What it does - 
 Here is a sample fitness studio API. It contains all the required scripting for handling a fitness studio database. Here is what you can do with this once you get the swagger UI started
